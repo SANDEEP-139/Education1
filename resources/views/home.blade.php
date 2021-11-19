@@ -81,7 +81,7 @@
             <div class="iconBox">
               <img src="images/icons/1.png" alt="" class="img-icon">
               <h5 style="color:#6d4c41;">Distance Learning</h5>
-              <p align="justify">Distance education or long-distance learning is the education of students who may not always be physically present at a school.Traditionally, this usually involved correspondence courses wherein the student corresponded with the school via post. Today it involves online education.</p>
+              <p text-align="justify">Distance education or long-distance learning is the education of students who may not always be physically present at a school.Traditionally, this usually involved correspondence courses wherein the student corresponded with the school via post. Today it involves online education.</p>
               <a href="#" class="read-more btn">Read More</a>
             </div>
           </div>
@@ -89,7 +89,7 @@
             <div class="iconBox">
               <img src="images/icons/2.png" alt="" class="img-icon">
               <h5 style="color:#6d4c41;">Qualified Trainers</h5>
-              <p align="justify">In this technological world that we live in, it is very important for teachers to be in step with new technologies. <br/>Tutors will be able to adapt their teaching methods to their learners’ needs and they will improve their own IT abilities.
+              <p text-align="justify">In this technological world that we live in, it is very important for teachers to be in step with new technologies. <br/>Tutors will be able to adapt their teaching methods to their learners’ needs and they will improve their own IT abilities.
 			 </p>
               <a href="#" class="read-more btn">Read More</a>
             </div>
@@ -98,7 +98,7 @@
             <div class="iconBox">
               <img src="images/icons/3.png" alt="" class="img-icon">
               <h5 style="color:#6d4c41;">Job Opportunity</h5>
-              <p align="justify">We all know that there are no difficulties of find  a job. This is bit of difficulte to find a good job that imporve you and your skills also. <br/>That is our responsibility to provide a good job to you that meet you your desire and deams. We are always trying to made you the best.</p>
+              <p text-align="justify">We all know that there are no difficulties of find  a job. This is bit of difficulte to find a good job that imporve you and your skills also. <br/>That is our responsibility to provide a good job to you that meet you your desire and deams. We are always trying to made you the best.</p>
               <a href="#" class="read-more btn">Read More</a>
             </div>
           </div>

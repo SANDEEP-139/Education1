@@ -1,0 +1,8 @@
+install composer create-project laravel/laravel example-app
+
+composer require laravel/ui
+php artisan ui bootstrap
+php artisan ui bootstrap --auth
+npm install && npm run dev
+php artisan migrate
+php aritsan serve
